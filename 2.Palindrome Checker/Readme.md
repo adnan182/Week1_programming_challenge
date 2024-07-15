@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Challenge: Palindrome Checker
-=======
 # Challenge: Palindrome Checker
 ## Objective: 
 Write a program that checks if a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
@@ -26,6 +23,3 @@ Input: "Hello, World!"
 
 Output: "Not a palindrome"
 ```
-
-  
->>>>>>> fa6fa3b5a50f5ce4fe48dd120a8e8c54833c0696
