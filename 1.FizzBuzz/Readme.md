@@ -11,4 +11,33 @@ Print “Fizz” for numbers divisible by 3, “Buzz” for numbers divisible by
 
 If the number is not divisible by either, just print the number itself.
 
+## Example input
+```
+15
+```
+## Example Output
+```
+1
+
+2
+
+Fizz
+
+4
+
+Buzz
+
+Fizz
+
+7
+
+8
+
+Fizz
+
+Buzz
+
+11
+```
+
   
