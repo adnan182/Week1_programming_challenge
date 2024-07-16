@@ -7,7 +7,7 @@ def fizz_buzz(n):
 #If the number is divisible by 3
         elif i % 3 == 0:
             print("Fizz")
-#If the number is divisible by 5
+#If the number is divisible by 
         elif i % 5 == 0:
             print("Buzz")
         else:
