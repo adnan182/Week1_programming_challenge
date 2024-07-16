@@ -16,7 +16,7 @@ If the number is not divisible by either, just print the number itself.
 15
 ```
 ## Example Output
-
+```
 1
 
 2
@@ -46,3 +46,4 @@ Fizz
 14
 
 FizzBuzz
+```
